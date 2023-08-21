@@ -1,0 +1,8 @@
+requests
+streamlit
+openai
+beautifulsoup4
+databutton
+Pillow
+google-auth
+google-api-python-client
